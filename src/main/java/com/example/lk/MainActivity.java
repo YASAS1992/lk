@@ -25,5 +25,7 @@ public class MainActivity extends ActCommon {
         tvHello = findViewById(R.id.tvHello);
 
         tvHello.setText(parent.getAbc());
+
+        System.out.println("test cam");
     }
 }

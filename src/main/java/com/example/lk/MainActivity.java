@@ -19,7 +19,7 @@ public class MainActivity extends ActCommon {
         Parent parent = new Parent();
 
 
-        parent.setAbc("Hello Ipay "+"Sri Lanka");
+        parent.setAbc("Ipay "+"Sri Lanka");
 
 
         tvHello = findViewById(R.id.tvHello);

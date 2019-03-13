@@ -27,6 +27,6 @@ public class MainActivity extends ActCommon {
 
         tvHello.setText(parent.getAbc());
 
-        System.out.println("test cam");
+        System.out.println("test cam123");
     }
 }
